@@ -8,7 +8,9 @@ You might have heard about this client before since it got hyped af. If you dont
 
 # Credits
 zPrestige (zprestige_) - Developer of the Client
+
 _3000IQPlay (_3000iqplayalt) - Cracking
+
 Sn (snrios) - Jar + Installer
 
 # GUI
