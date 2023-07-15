@@ -14,4 +14,4 @@ _3000IQPlay (_3000iqplayalt) - Cracking
 Sn (snrios) - Jar + Installer
 
 # GUI
-![image](https://github.com/3000IQPlay/Prestige-Cracked/assets/75604883/700fe850-e0e8-4940-9f4a-47998d69b9ce)
+![image](https://github.com/3000IQPlay/Prestige-Cracked/assets/75604883/8fa4b3d3-9af2-49aa-b404-03d5c9358a06)
