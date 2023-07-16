@@ -1,5 +1,6 @@
 # Prestige-Cracked
 **MAKE SURE TO JOIN: https://discord.com/invite/A9XhxPDzex**
+
 You might have heard about this client before since it got hyped af ngl. If you dont know what this client is, It's a 1.19.X Ghost PvP Client made by zPrestige (Discord: zprestige_). To be fair i dont want to say that much to the crack since Prestige is a chill guy and i don't have anything against him. I have released crack since PlutoSolutions released theirs so its not worth keeping this crack in private repo. Obfuscator that has been used was BranchLock, nothing else (I do not recommend using BranchLock)
 
 # How To Use
